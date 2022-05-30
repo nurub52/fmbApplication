@@ -35,7 +35,7 @@
     "redux-thunk": "^2.3.0",
     "styled-components": "^4.4.1",
     "typescript": "^3.7.2",
-    "validator": "^10.11.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "@types/classnames": "^2.2.9",
